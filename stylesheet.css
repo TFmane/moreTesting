@@ -13,7 +13,7 @@ body {
 /*navmenu*/
 .navmenu {
 	width: 15%;
-	position: sticky;
+	position: fixed;
 	top: 0;
 	margin: 20px;
 	display: block;
@@ -121,7 +121,7 @@ h1 {
 }
 
 .sidep {
-  text-align: left;
+  text-align: center;
 }
 
 .gold {
